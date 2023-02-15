@@ -1,4 +1,4 @@
-- 🎯CURRENT PROJECT: BSP1 - DoodleRec / AI Image Recognition
+- 🎯Current Project: BSPS2 - Path-IT / Pathfinding made easy with AI
 
 - 👋 Hi, I’m Tinouert Alexandre!
 - 📚 I'm currently studying Computer Science at the University of Luxembourg on the Belval Campus.
