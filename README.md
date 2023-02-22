@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Tinouert Alexandre!
 - 📚 I'm currently studying Computer Science at the University of Luxembourg on the Belval Campus.
-- 🌱 I’m currently learning Neural Network, more Python stuff...
+- 🌱 I’m currently learning Genetic Algorithms, more JavaScript stuff!
 - 📫 How to reach me: alexandre.tinouert.001@student.uni.lu
 
 <!---
